@@ -1,2 +1,2 @@
 Tweet-Emotion-Recognition</br>
-Certificate link  - https://in.coursera.org/learn/tweet-emotion-tensorflow/home/week/1?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta
+Certificate link  - https://coursera.org/share/0121faf97f4dcdbb7a2238c8d2cc9486
